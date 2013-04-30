@@ -1,0 +1,19 @@
+1) Install the 'AutoHotkey_L_Install.exe' setup file from the .rar file.
+
+2) Open the 'ps.ahk' file in any text editor.
+
+3) Goto line number 10. Enter your preference list here. The numbers have to be comma separated with no spaces.
+	Save the file once finished.
+
+4) Now double click the 'ps.ahk' file. This will open it in the AutoHotkey tray below.
+
+5) Now open the PS2 form filling webpage and click in the first textbox against the station number 1.
+
+6) Press Ctrl + Alt + K. This should do the trick.
+
+7) If you modify the script, make sure to open the AutoHotkey tray from below and Reload the script (Ctrl + R)
+
+8) If the webpage hangs, goto line number 36 and uncomment it. (Remove the two ;;)
+	ie. Sleep, 1000 
+	
+
