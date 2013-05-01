@@ -33,7 +33,7 @@
 			;; So, I had to use a delay of about 1 second between entering values
 			;; Uncomment the following line if you need it
 			
-			;; Sleep, 1000 ; 2 second delay
+			;; Sleep, 1000 ; 1 second delay
 		}
 
 return
