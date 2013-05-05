@@ -13,7 +13,8 @@
 
 7) If you modify the script, make sure to open the AutoHotkey tray from below and Reload the script (Ctrl + R)
 
-8) <== +++ IF THE WEBPAGE HANGS +++ ==> goto line number 36 and uncomment it. (Remove the two ;;)
+8) <== +++ IF THE WEBPAGE HANGS +++ ==> ( THIS WILL MOSTLY HAPPEN )
+	goto line number 36 and uncomment it. (Remove the two ;;)
 	ie. Sleep, 1000 
 	
 
